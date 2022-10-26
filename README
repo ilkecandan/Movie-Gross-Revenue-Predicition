@@ -1,0 +1,9 @@
+This is a development of a machine learning model that has been developed to predict gross revenue of a movie.
+We have a data from cinema industry. After checking how are values correlate with each other, to create the most 
+correct model; we will use various values. 
+
+After, data cleaning I have tried various machine learning models such as LinearRegression, DecisionTreeRegressor 
+and RandomForestRegressor. We contunied with Decision Tree Regressor since it showed an error value of 0. 
+
+This model can be used before producing a movie. So we already need to have values of our critic score, budget, director, writer
+and star.
