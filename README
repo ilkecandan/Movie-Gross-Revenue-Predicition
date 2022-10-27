@@ -1,4 +1,4 @@
-This is a development of a machine learning model that has been developed to predict gross revenue of a movie.
+This is a development of a machine learning model that predicts gross revenue of a movie.
 We have a data from cinema industry. After checking how are values correlate with each other, to create the most 
 correct model; we will use various values. 
 
